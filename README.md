@@ -13,3 +13,5 @@ kajisjf
 roman reigns
 gg
 bhai ne website bna di
+
+this code is done remotely
